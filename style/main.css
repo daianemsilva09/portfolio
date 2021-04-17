@@ -1,5 +1,7 @@
 body{
-    background-color: teal;
+    background:url("img/Foto-\ capa.jpg");
+    background-size:cover;
+    position: relative;  
 }
 
 .start{
@@ -8,11 +10,17 @@ body{
     padding: 8px;
 }
 
-.container{
-    background-color: whitesmoke;
-    text-align: right;
-    padding: 27px;
-    text-align: center;
 
+.container-photo img{
+    width: 200px;
+    height: 200px;
+    border: 4px solid rgb(252, 252, 252);
+    margin-left: auto;
+    margin-right: auto;    
 }
+
+.card img {
+    flex-direction: center;
+    width: 40px;
+    height: 40px;
 }

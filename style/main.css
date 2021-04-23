@@ -32,9 +32,6 @@ body {
     height: 80px;
     font-size: 25px;
     text-align: center;
-
-
-
 }
 
 
@@ -51,20 +48,17 @@ body {
 .block-rigth {
     background-color: rgb(255, 213, 236);
     width: 400px;
-    height: 1100px;
+    height: 900px;
     float: left;
     margin-left: 8%;
     border-radius: 5%;
     padding: 30px;
-
-
 }
 
 
 
 
 .block-left {
-
     background-color: rgb(255, 213, 236);
     width: 500px;
     height: 1000px;
@@ -73,7 +67,6 @@ body {
     margin: 5%;
     border-radius: 15%;
     padding: 10px;
-
 }
 
 
@@ -86,6 +79,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 .card img {
 

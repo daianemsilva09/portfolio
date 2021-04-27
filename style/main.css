@@ -12,7 +12,7 @@ body {
     background-color: #eeeeee;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("/style/img/flores.jpeg");
+    background-image: url("./img/flores.jpeg");
 }
 
 .start {

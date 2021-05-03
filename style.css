@@ -55,6 +55,7 @@ a:hover {
 
 
 .about {
+
     background-color: rgb(236, 71, 162);
     width: 100%;
     height: 60px;
@@ -114,6 +115,8 @@ a:hover {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
+
+    padding: 1%;
 
     width: 470px;
     height: 770px;

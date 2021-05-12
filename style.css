@@ -25,16 +25,10 @@ body {
 
 }
 
-
-
-
 .menu {
     word-spacing: 40px;
     margin-left: auto;
 }
-
-
-
 
 a:hover {
     text-decoration: underline;
@@ -162,12 +156,6 @@ h3.about {
 
 }
 
-
-
-
-
-
-
 .container-photo img {
     width: 400px;
     height: 200px;
@@ -176,15 +164,9 @@ h3.about {
     margin-right: auto;
 }
 
-
-
-
 .card img {
-
     width: 40px;
     height: 40px;
-
-
 }
 
 .inicio {
@@ -195,12 +177,10 @@ h3.about {
 }
 
 .container-about0 {
-
     margin-top: 50%;
     font-size: 25px;
     text-align: center;
     color: black;
-
 }
 
 .about-me {
@@ -236,7 +216,6 @@ h3.about {
     border: 2px solid rgb(236, 71, 162);
     text-align: center;
     border-radius: 10%;
-
     background-color: rgb(255, 211, 226);
 
 }
@@ -254,7 +233,6 @@ h3.about {
 
 
 .number2 {
-
     width: 700px;
     margin-left: auto;
     margin-right: auto;
@@ -282,7 +260,6 @@ h3.about {
     text-align: center;
     border-radius: 10%;
     background-color: rgb(255, 211, 226);
-
 }
 
 .block-left-contacts {
@@ -300,7 +277,6 @@ h3.about {
     border-color: dimgrey;
     border-radius: 5%;
     padding: 2%;
-
 }
 
 .contacts {
@@ -327,9 +303,6 @@ h3.about {
     align-items: center;
     justify-content: center;
 }
-
-
-
 
 .fim {
 

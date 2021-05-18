@@ -3,7 +3,7 @@
     margin: 0;
 
     font-family: sans-serif;
-    color: rgb(253, 253, 253);
+ 
     text-decoration: none;
 }
 
@@ -12,18 +12,21 @@ body {
 
     background-color: #eeeeee;
     background-repeat: no-repeat;
-    background: url("img/pexels-pixabay-270360\ \(2\).jpg");
+    background: url("img/pexels-aleksandar-pasaric-1694000.jpg");
     background-size: cover;
-
+    color: rgb(0, 0, 0);
 }
 
+
 .start {
-    background-color: rgb(143, 143, 143);
+    background-color: white;
     text-align: right;
     padding: 8px;
     margin-top: auto;
+   
 
 }
+
 
 
 
@@ -31,6 +34,7 @@ body {
 .menu {
     word-spacing: 40px;
     margin-left: auto;
+    color: white;
 }
 
 
@@ -51,10 +55,13 @@ a:hover {
 #content {
     display: flex;
     align-items: center;
-
     font-size: 25px;
-    color: black;
+   
     justify-content: space-between;
+}
+
+#content a {
+    color: white;
 }
 
 
@@ -62,7 +69,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(143, 143, 143);
+    background-color: white;
     width: 100%;
     height: 60px;
     font-size: 25px;
@@ -120,7 +127,7 @@ h3.about {
     border-style: solid;
     border-color: dimgrey;
     margin-top: 25px;
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 }
 
 .block-rigth {
@@ -130,7 +137,7 @@ h3.about {
     align-items: center;
     justify-content: space-evenly;
 
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 
     padding-left: 4px;
     width: 400px;
@@ -171,7 +178,7 @@ h3.about {
 .container-photo img {
     width: 400px;
     height: 200px;
-    border: 4px solid rgb(252, 252, 252);
+    border: 4px solid white;
     margin-left: auto;
     margin-right: auto;
 }
@@ -188,11 +195,14 @@ h3.about {
 }
 
 .inicio {
-    margin-top: 10%;
+    margin-top: 15%;
     display: flex;
     align-items: center;
     flex-direction: column;
+    color: white;
+    
 }
+
 
 .container-about0 {
 
@@ -211,7 +221,7 @@ h3.about {
     text-align: center;
     color: black;
     border: black;
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 
     border: 2px solid rgb(143, 143, 143);
     text-align: center;
@@ -237,7 +247,7 @@ h3.about {
     text-align: center;
     border-radius: 10%;
 
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 
 }
 
@@ -265,7 +275,7 @@ h3.about {
     text-align: center;
 
     border-radius: 10%;
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 
 }
 
@@ -281,7 +291,7 @@ h3.about {
     border: 2px solid rgb(143, 143, 143);
     text-align: center;
     border-radius: 10%;
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 
 }
 
@@ -292,7 +302,7 @@ h3.about {
     align-items: center;
     justify-content: space-evenly;
 
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 
     margin-top: 2%;
     border-radius: 5%;
@@ -319,13 +329,17 @@ h3.about {
     border-style: solid;
     border-color: dimgrey;
     margin-top: 25px;
-    background-color: rgb(202, 202, 202);
+    background-color: white;
 }
 
 .contatos-about1 {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.main a{
+    color: white;
 }
 
 

@@ -324,12 +324,17 @@ h3.about {
     height: 550px;
     float: left;
     border-color: black;
+    
 
     border-radius: 15%;
     border-style: solid;
     border-color: dimgrey;
     margin-top: 25px;
     background-color: white;
+}
+
+.contacts a{
+    color:black;
 }
 
 .contatos-about1 {
